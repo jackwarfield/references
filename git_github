@@ -2,4 +2,4 @@ git init # for new repository
 git add FILENAME
 git commit -m "commit comment"
 git remote add origin https://github.com/USERNAME/REPOSITORYNAME.git
-git push -u origin master
+git push -u origin main # "main" might be "master" for older repositories
