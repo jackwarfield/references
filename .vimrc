@@ -1,3 +1,7 @@
+"By-line scrolling based on screen positon rather than line number
+nmap j gj
+nmap k gk
+
 "Make sure that Shift-Arrow Key does what I want it to do when running through
 "tmux
 map ;2C <S-Right>
